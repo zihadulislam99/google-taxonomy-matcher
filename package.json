@@ -15,7 +15,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "minisearch": "^2.5.1"
+    "minisearch": "^2.6.2"
   },
   "author": "D3VL LTD <contact@d3vl.com> (https://d3vl.com)",
   "files": [
